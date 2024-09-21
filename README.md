@@ -27,7 +27,7 @@ Bootstrap
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/beauty-shop-website.git
+git clone https://github.com/MustcodeQ/beauty-shop-website.git
 Navigate to the project folder:
 bash
 Copy code
