@@ -5,7 +5,7 @@ Beauty Shop Website Design
 This project showcases a beautifully designed website for a beauty shop, providing an intuitive and engaging user experience for browsing and purchasing beauty products and services.
 
 🚀 Features
-
+		
 Responsive Design: Optimized for all devices (desktop, tablet, mobile).
 User-Friendly Navigation: Simple and clear navigation menu.
 Product Catalog: Displays products with images, descriptions, and prices.
