@@ -1,5 +1,3 @@
-![Screenshot 2024-10-07 203327](https://github.com/user-attachments/assets/493288b4-fe42-45db-a943-fb6c1fced37d)![Screenshot 2024-10-07 203327](https://github.com/user-attachments/assets/06f5995a-13be-44a4-a700-abf05860f202)![Screenshot 2024-10-07 203209](https://github.com/user-attachments/assets/afc2b396-1067-44bc-95cb-279d1b9d096a)![image](https://github.com/user-attachments/assets/eae506c5-c50e-4428-a3d1-6fba0435863d)Beauty Shop Website Design
-
 📖 Overview
 
 This project showcases a beautifully designed website for a beauty shop, providing an intuitive and engaging user experience for browsing and purchasing beauty products and services.
